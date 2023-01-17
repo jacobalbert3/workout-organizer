@@ -1,5 +1,281 @@
-﻿Muscle Group,Workout,Reps,Link to Workout
-Chest,bench press,4 by 8,https://www.google.com/search?q=how+to+bench+press&rlz=1C5GCEM_enUS916US916&oq=how+to+bench+press&aqs=chrome..69i57j0i512l9.1747j1j7&sourceid=chrome&ie=UTF-8
-Arms,Dumbell Curls ,3 by 10,https://www.google.com/search?q=how+to+dumbell+curls&rlz=1C5GCEM_enUS916US916&oq=how+to+dumbell+curls+&aqs=chrome..69i57j0i7i10i30l2j0i7i10i30i625j0i7i10i30l3j0i7i10i30i625l2j0i7i10i30.4926j1j7&sourceid=chrome&ie=UTF-8
-Core ,Situps,3 by 25,
-Cardio,Running,20 minutes,
+Muscle Group,Workout,Reps
+Chest,bench press,4 by 8
+Arms,Dumbell Curls ,3 by 10
+Core ,Situps,3 by 25
+Cardio,Running,20 minutes
+Cardio,Cycling,20 minutes
+Cardio,Jump Rope,20 minutes
+Cardio,Rowing Machine,20 minutes
+Cardio,Sprints,10 by 100 meters
+Cardio,Swimming,20 laps
+Cardio,HIIT Circuit,10 minutes
+Abs,Full Reverse Crunch,3 by 10
+Abs,Incline Hip Thrust,3 by 10
+Abs,Incline Reverse Crunch,3 by 10
+Abs,Lying Hip Thrust,3 by 10
+Abs,Reverse Crunch,3 by 10
+Abs,Reverse Medicine Ball Crunch,3 by 10
+Abs,Alternating Heel Touch,3 by 10
+Abs,Bent-Knee Medicine Ball Hip Rotation,3 by 10
+Abs,Cable Chop,3 by 10
+Abs,Cross Crunch,3 by 10
+Abs,Cross Crunch w/ Medicine Ball,3 by 10
+Abs,Decline Cross Sit-Up,3 by 10
+Abs,Decline Sit-Up w/ Twist,3 by 10
+Abs,Reverse Cable Chop,3 by 10
+Abs,Seated Medicine Ball Twist,3 by 10
+Abs,Trunk Rotator,3 by 10
+Abs,Front Plank (from knees),3 by 10
+Abs,Front Plank (from toes),3 by 10
+Abs,Front Plank (tripod - 1 arm and 2 legs or 2 legs and 1 arm),3 by 10
+Abs,Side-Plank (from knees),3 by 10
+Abs,Side-Plank (hip lift),3 by 10
+Abs,Side-Plank (from toes),3 by 10
+Abs,Ab Cycle,3 by 10
+Abs,Kneeling Ab Rollout,3 by 10
+Abs,Medicine Ball V-Up,3 by 10
+Abs,V-Up,3 by 10
+Abs,Weighted V-Up,3 by 10
+Abs,Bent Knee Sit-Up,3 by 10
+Abs,Bent-Knee Crunch,3 by 10
+Abs,Crunch,3 by 10
+Abs,Crunch,3 by 10
+Abs,Decline Crunch,3 by 10
+Abs,Decline Sit-Up,3 by 10
+Abs,Heel Touch,3 by 10
+Abs,Sit-Up,3 by 10
+Abs,Weighted Crunch,3 by 10
+Back,Assisted Pull-Up,3 by 10
+Back,Close-Grip Lat Pulldown,3 by 10
+Back,Inverted Pull-Up,3 by 10
+Back,Lat Pulldown,3 by 10
+Back,Pull-Up,3 by 10
+Back,Reverse-Grip Lat Pullown,3 by 10
+Back,Reverse-Grip Pull-Up,3 by 10
+Back,V-Bar Pull-Up,3 by 10
+Back,Wide-Grip Lat Pulldown,3 by 10
+Back,Bent-Over Alternating Dumbbell Row,3 by 10
+Back,Bent-Over Barbell Row,3 by 10
+Back,Bent-Over Dumbbell Row,3 by 10
+Back,Bent-Over Hammer Dumbbell Row,3 by 10
+Back,Bent-Over Long Barbell Row,3 by 10
+Back,Bent-Over Reverse-Grip Barbell Row,3 by 10
+Back,Bent-Over Single-Arm Long Barbell Row,3 by 10
+Back,Machine Row,3 by 10
+Back,One Arm Dumbbell Row,3 by 10
+Back,Reverse Incline Dumbbell Row,3 by 10
+Back,Rope Cable Row,3 by 10
+Back,Seated Cable Row,3 by 10
+Back,Seated Row,3 by 10
+Back,Single-Arm Cable Row,3 by 10
+Back,Single-Arm Dumbbell Row,3 by 10
+Back,Single-Arm Lat Pulldown,3 by 10
+Back,Standing Cable Row,3 by 10
+Back,Standing Single-Arm Cable Row,3 by 10
+Arms,Alternating Dumbbell Curl,3 by 10
+Arms,Alternating Hammer Curl,3 by 10
+Arms,Barbell Curl,3 by 10
+Arms,Bicep Curl,3 by 10
+Arms,Bottom/Top/Full Curls,3 by 10
+Arms,Cable Curl,3 by 10
+Arms,Concentration Dumbbell Curl,3 by 10
+Arms,Cross Body Hammer Curl,3 by 10
+Arms,Dumbbell Curl,3 by 10
+Arms,EZ-Bar Curl,3 by 10
+Arms,Hammer Curl,3 by 10
+Arms,Incline Alternating Dumbbell Curl,3 by 10
+Arms,Incline Alternating Hammer Curl,3 by 10
+Arms,Incline Dumbbell Curl,3 by 10
+Arms,Incline Hammer Curl,3 by 10
+Arms,Kneeling Cable Curl,3 by 10
+Arms,Lying Cable Curl,3 by 10
+Arms,Lying Double Biceps Cable Curl,3 by 10
+Arms,Lying High Cable Curl,3 by 10
+Arms,Machine Curl,3 by 10
+Arms,Overhead Double Biceps Cable Curl,3 by 10
+Arms,Overhead Rope Cable Curl,3 by 10
+Arms,Preacher Barbell Curl,3 by 10
+Arms,Preacher Cable Curl,3 by 10
+Arms,Preacher Dumbbell Curl,3 by 10
+Arms,Preacher EZ-Bar Curl,3 by 10
+Arms,Preacher Hammer Dumbbell Curl,3 by 10
+Arms,Preacher Single-Arm Dumbbell Curl,3 by 10
+Arms,Reverse Curl,3 by 10
+Arms,Rope Cable Curl,3 by 10
+Arms,Seated Alternating Curl,3 by 10
+Arms,Seated Alternating Hammer Curl,3 by 10
+Arms,Seated Dumbbell Curl,3 by 10
+Arms,Seated Hammer Curl,3 by 10
+Arms,Single-Arm Barbell Curl,3 by 10
+Arms,Single-Arm Cable Curl,3 by 10
+Arms,Single-Arm Dumbbell Curl w/ Incline Bench,3 by 10
+Arms,Spider Curl,3 by 10
+Legs,Barbell Calf Raise,3 by 10
+Legs,Calf Press,3 by 10
+Legs,Calf Raise - Seated,3 by 10
+Legs,Calf Raise - Standing,3 by 10
+Legs,Dumbbell Calf Raise,3 by 10
+Legs,Single-Leg Calf Press,3 by 10
+Legs,Single-Leg Dumbbell Calf Raise,3 by 10
+Legs,Smith Machine Calf Raise,3 by 10
+Legs,Seated Calf Raise,3 by 10
+Legs,Seated Single-Leg Calf Raise,3 by 10
+Chest,Alternating Dumbbell Bench Press,3 by 10
+Chest,Barbell Bench Press,3 by 10
+Chest,Chest Press,3 by 10
+Chest,Decline Dumbbell Bench Press,3 by 10
+Chest,Decline Smith Machine Bench Press,3 by 10
+Chest,Dumbbell Bench Press,3 by 10
+Chest,Dumbbell Push-Up,3 by 10
+Chest,Elevated Push-Up,3 by 10
+Chest,Flat Bench Press,3 by 10
+Chest,Incline Alternating Dumbbell Bench Press,3 by 10
+Chest,Incline Barbell Bench Press,3 by 10
+Chest,Incline Bench Press,3 by 10
+Chest,Incline Dumbbell Bench Press,3 by 10
+Chest,Incline Hammer Dumbbell Bench Press,3 by 10
+Chest,Incline Single-Arm Dumbbell Bench Press,3 by 10
+Chest,Incline Smith Machine Bench Press,3 by 10
+Chest,Incline Twisting Dumbbell Bench Press,3 by 10
+Chest,Kneeling Push-Up,3 by 10
+Chest,Machine Bench Press,3 by 10
+Chest,Machine Vertical Bench Press,3 by 10
+Chest,Medicine Ball Crossover Push-Up,3 by 10
+Chest,Push-Up,3 by 10
+Chest,Single-Arm Dumbbell Bench Press,3 by 10
+Chest,Smith Machine Bench Press,3 by 10
+Chest,Twisting Dumbbell Bench Press,3 by 10
+Chest,Wide-Grip Push-Up,3 by 10
+Chest,Cable Crossover,3 by 10
+Chest,Cable Fly,3 by 10
+Chest,Decline Dumbbell Fly,3 by 10
+Chest,Dumbbell Fly,3 by 10
+Chest,High Cable Crossover,3 by 10
+Chest,Incline Cable Fly,3 by 10
+Chest,Incline Dumbbell Fly,3 by 10
+Chest,Incline Twisting Dumbbell Fly,3 by 10
+Chest,Low Cable Crossover,3 by 10
+Chest,Pec Deck,3 by 10
+Chest,Pec Deck Fly,3 by 10
+Legs,Bent-Knee Single-Leg Hip Lift,3 by 10
+Legs,Elevated Hip Lift,3 by 10
+Legs,Elevated Single-Leg Hip Lift,3 by 10
+Legs,Hip Lift,3 by 10
+Legs,Single-Leg Hip Lift,3 by 10
+Legs,Deadlift,3 by 10
+Legs,Leg Curl,3 by 10
+Legs,Lying Alternating Leg Curl,3 by 10
+Legs,Lying Leg Curl,3 by 10
+Legs,Lying Single-Leg Curl,3 by 10
+Legs,Seated Leg Curl,3 by 10
+Legs,Barbell Diagonal Lunge,3 by 10
+Legs,Barbell Hack Squat,3 by 10
+Legs,Barbell Lunge,3 by 10
+Legs,Barbell Reverse Lunge,3 by 10
+Legs,Barbell Side Lunge,3 by 10
+Legs,Barbell Split Squat,3 by 10
+Legs,Barbell Squat,3 by 10
+Legs,Barbell Step-Up,3 by 10
+Legs,Barbell Walking Lunge,3 by 10
+Legs,Diagonal Lunge,3 by 10
+Legs,Dumbbell Diagonal Lunge,3 by 10
+Legs,Dumbbell Lunge,3 by 10
+Legs,Dumbbell Reverse Lunge,3 by 10
+Legs,Dumbbell Side Lunge,3 by 10
+Legs,Dumbbell Split Squat,3 by 10
+Legs,Dumbbell Squat,3 by 10
+Legs,Dumbbell Step-Up,3 by 10
+Legs,Dumbbell Walking Lunge,3 by 10
+Legs,Forward Lunge,3 by 10
+Legs,Lateral Barbell Squat,3 by 10
+Legs,Lateral Barbell Step-Up,3 by 10
+Legs,Lateral Squat,3 by 10
+Legs,Lateral Step-Up,3 by 10
+Legs,Leg Press,3 by 10
+Legs,Lunge,3 by 10
+Legs,Lying Machine Squat,3 by 10
+Legs,Machine Hack Squat,3 by 10
+Legs,Reverse Lunge,3 by 10
+Legs,Single-Arm Barbell Side Squat,3 by 10
+Legs,Single-Arm Dumbbell Side Squat,3 by 10
+Legs,Single-Leg Barbell Squat,3 by 10
+Legs,Single-Leg Box Squat,3 by 10
+Legs,Single-Leg Dumbbell Box Squat,3 by 10
+Legs,Single-Leg Dumbbell Squat,3 by 10
+Legs,Single-Leg Squat,3 by 10
+Legs,Smith Machine Squat,3 by 10
+Legs,Split Squat,3 by 10
+Legs,Step-Up,3 by 10
+Legs,Walking Lunge,3 by 10
+Legs,Alternating Leg Extension,3 by 10
+Legs,Leg Extension,3 by 10
+Legs,Single-Leg Extension,3 by 10
+Back,Alternating Superman,3 by 10
+Back,Back Raise,3 by 10
+Back,Quadruped Alternating Superman,3 by 10
+Back,Superman,3 by 10
+Back,Superman Hold,3 by 10
+Shoulders,Arnold Dumbbell Press,3 by 10
+Shoulders,Barbell Shoulder Press,3 by 10
+Shoulders,Dumbbell Alternating Shoulder Press,3 by 10
+Shoulders,Dumbbell Front Raise,3 by 10
+Shoulders,Dumbbell Shoulder Press,3 by 10
+Shoulders,Dumbbell Twisting Shoulder Press,3 by 10
+Shoulders,Machine Shoulder Press,3 by 10
+Shoulders,Seated Dumbbell Rear Delt Elbow Raise,3 by 10
+Shoulders,Single-Arm Dumbbell Shoulder Press,3 by 10
+Shoulders,Smith Machine Shoulder Press,3 by 10
+Shoulders,Barbell Front Raise,3 by 10
+Shoulders,Bent-Over Cable Rear Delt Raise,3 by 10
+Shoulders,Bent-Over Dumbbell Rear Delt Raise,3 by 10
+Shoulders,Cable Front Raise,3 by 10
+Shoulders,Cable Lateral Raise,3 by 10
+Shoulders,Dumbbell Lateral Raise,3 by 10
+Shoulders,Front Plate Raise,3 by 10
+Shoulders,Kneeling Single-Arm Cable Rear Delt Raise,3 by 10
+Shoulders,Lying Dumbbell External Rotation,3 by 10
+Shoulders,Lying Dumbbell Rear Delt Raise,3 by 10
+Shoulders,Lying Single-Arm Dumbbell Rear Delt Raise,3 by 10
+Shoulders,Pec Deck Real Delt Extensions,3 by 10
+Shoulders,Reverse Incline Dumbbell Rear Delt Raise,3 by 10
+Shoulders,Seated Dumbbell Rear Delt Raise,3 by 10
+Shoulders,Single-Arm Cable Lateral Raise,3 by 10
+Shoulders,Cable External Rotation,3 by 10
+Arms,Close-Grip Bench Press,3 by 10
+Arms,Forward Lean Dips,3 by 10
+Arms,Assisted Dips,3 by 10
+Arms,Bench Dips,3 by 10
+Arms,Diamond Push-Up,3 by 10
+Arms,Dips,3 by 10
+Arms,Machine Dips,3 by 10
+Arms,Decline Dumbbell Triceps Extension,3 by 10
+Arms,Decline EZ-Bar Tricep Extension,3 by 10
+Arms,Decline Single Dumbbell Triceps Extension,3 by 10
+Arms,Decline Single-Arm Dumbbell Triceps Extension,3 by 10
+Arms,Dumbbell Kickback,3 by 10
+Arms,Incline EZ-Bar Tricep Extension,3 by 10
+Arms,Kneeling Cable Triceps Extension,3 by 10
+Arms,Leaning Overhead Tricep Extension,3 by 10
+Arms,Low Cable Triceps Extension,3 by 10
+Arms,Lying Cable Triceps Extension,3 by 10
+Arms,Lying EZ-Bar Triceps Extension,3 by 10
+Arms,Lying Overhead EZ-Bar Tricep Extension,3 by 10
+Arms,Lying Reverse EZ-Bar Triceps Extension,3 by 10
+Arms,Lying Single Dumbbell Triceps Extension,3 by 10
+Arms,Lying Single-Arm Dumbbell Triceps Extension,3 by 10
+Arms,Lying Tricep Extensions,3 by 10
+Arms,Overhead Dumbbell Triceps Extension,3 by 10
+Arms,Overhead EZ-Bar Triceps Extension,3 by 10
+Arms,Overhead Rope Cable Tricep Extension,3 by 10
+Arms,Overhead Single Dumbbell Tricep Extension,3 by 10
+Arms,Overhead Single-Arm Cable Tricep Extension,3 by 10
+Arms,Overhead Single-Arm Dumbbell Tricep Extension,3 by 10
+Arms,Reverse Tricep Pushdown,3 by 10
+Arms,Rope Triceps Pushdown,3 by 10
+Arms,Single-Arm Towel Triceps Pushdown,3 by 10
+Arms,Single-Arm Triceps Pushdown,3 by 10
+Arms,Towel Triceps Pushdown,3 by 10
+Arms,Tricep Extensions,3 by 10
+Arms,Tricep Pushdown,3 by 10
+Arms,Tricep Pushdown,3 by 10
+Arms,V-Bar Tricep Pushdown,3 by 10
